@@ -13,7 +13,8 @@ public class Logicos {
 		System.out.println(valor && valor2); //AND 
 		System.out.println(valor || valor2); //OR 
 		System.out.println(valor ^ valor2); //OU exclusivo "XOR"
-		System.out.println(!valor); //NOT, Negação 
+		System.out.println(!valor); //NOT, Negação
+		
 		
 		
 	}
