@@ -9,6 +9,9 @@ public class OperadoresUnarios {
 		a++;
 		b--;
 		
+		++a;  //O operador a frente, torna prioridade na leitura.
+		--b; 
+		
 		System.out.println(a);
 		System.out.println(b);
 	}
